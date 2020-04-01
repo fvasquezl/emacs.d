@@ -1,0 +1,8 @@
+# ignore files in folder 
+elpa/*
+auto-save-list/*
+trassient/*
+# but keep the folder
+!elpa/.keep
+!auto-save-list/.keep
+!trasient/.keep

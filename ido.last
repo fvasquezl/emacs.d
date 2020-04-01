@@ -1,0 +1,49 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/fvasquez/.emacs.d/" . "auto-save-list/")
+ ("/home/fvasquez/Code/practice/" . "app/")
+ ("/home/fvasquez/Code/" . "practice/")
+ ("/home/fvasquez/" . ".emacs.d/")
+ ("/home/" . "fvasquez/")
+ ("/" . "home/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/fvasquez/.emacs.d/init/"
+ "/home/fvasquez/.emacs.d/"
+ "/home/fvasquez/Code/practice/app/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "my-init.org"
+ "init.el"
+ "User.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/fvasquez/.emacs.d/init/" (24197 8861 571928 91000) "../" "emacs-custom" "my-init.el" "./" "my-init.org")
+
+ ("/home/fvasquez/.emacs.d/" (24197 8928 863424 294000) "ido.last" "init/" "../" "./" "auto-save-list/" "projectile-bookmarks.eld" "transient/" "img/" "recentf" "bookmarks" "init.el" "elpa/" ".cache/")
+
+ ("/home/fvasquez/.emacs.d/auto-save-list/" (24196 62328 568259 998000) ".saves-22452-fvasquez-pc~" "../" ".saves-18468-fvasquez-pc~" "./")
+
+ ("/home/fvasquez/.elfeed/" (24186 27999 820776 387000) "../" "./" "index")
+
+ ("/home/fvasquez/Code/practice/app/" (24190 34397 206334 569000) "Http/" "../" "Plan.php" "./" "Console/" "Exceptions/" "Providers/" "User.php")
+
+ ("/home/fvasquez/Code/practice/" (24194 23496 587396 687000) ".editorconfig" "app/" "phpunit.xml" "node_modules/" "../" "database/" ".git/" "./" "README.md" "bootstrap/" "routes/" ".gitattributes" "composer.json" ".env.example" "tests/" "config/" "public/" ".styleci.yml" "package.json" ".env" "webpack.mix.js" ".gitignore" "server.php" "storage/" "package-lock.json" "resources/" "composer.lock" "vendor/" "artisan")
+
+ ("/home/fvasquez/Code/" (24190 27369 614937 145000) "roles/" "phpmyadmin/" "client/" "../" "example/" "resellers/" "sohnen/" "boughts/" "serena/" "pass/" "te1/" "./" "info/" "api/" "vueusers/" "boughts.working/" "proadh.Vue.Datatables.Working/" "vinyl/" "proadh/" "serena.new/" "consignment/" "librarynew/" "roles-permissions/" "backend/" "admin-lte3/" "test/" "store/" "passport/" "proadhVue/" "practice.old/" "practice/" "resellers.old/" "remotes/" "ppma/")
+
+ ("/home/" (23918 46352 98682 76000) "../" "./" "fvasquez/")
+
+ ("/home/fvasquez/" (24195 42120 395041 722000) ".vuerc" ".bash_profile" ".gitconfig" ".local/" ".gconf/" ".mozilla/" ".npm/" ".vagrant.d/" "Podcasts/" ".vscode/" ".saves/" "tenor.gif" ".DataGrip2019.3/" ".elfeed/" "../" "Public/" "Music/" "Videos/" "Pictures/" ".gnupg/" ".PhpStorm2019.3/" "Postman/" ".PhpStorm2019.2/" ".secret/" ".composer/" "wget-log" ".bash_logout" ".bash_history~" ".gimp-2.8/" ".nv/" ".asdm/" "./" ".mysql/" "Nuxt/" ".gphoto/" ".pki/" ".profile" ".valet/" ".mysql_history" "Homestead/" ".ICEauthority" "Downloads/" ".sudo_as_admin_successful" ".rnd" ".phpls/" "Code/" "VirtualBox VMs/" "Documents/" ".config/" ".wget-hsts" ".bash_history" "EmacsCommands.txt" ".ssh/" ".hplip/" "Development/" "emacsComands.txt" ".gnome/" ".thumbnails/" ".yarnrc" "Templates/" ".yarn/" "Desktop/" ".bashrc" "Audiobooks/" "snap/" ".rediscli_history" ".cache/" "org/" ".emacs.d/" ".java/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

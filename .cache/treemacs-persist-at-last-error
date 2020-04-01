@@ -1,0 +1,7 @@
+# State when last error occurred on 2020-03-31 15:37:25
+# Error was 'Cannot end with a project or workspace name' in line '* No Perspective'
+
+* Default
+** .emacs.d
+ - path :: ~/.emacs.d
+* No Perspective
